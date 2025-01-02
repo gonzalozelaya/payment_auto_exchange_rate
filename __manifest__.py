@@ -20,7 +20,7 @@
     'version': '1.0',
 
     # any module necessary for this one to work correctly
-    'depends': ['account'],
+    'depends': ['account_payment_pro'],
 
     # only loaded in demonstration mode
     'demo': [
