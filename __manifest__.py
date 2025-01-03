@@ -21,9 +21,6 @@
 
     # any module necessary for this one to work correctly
     'depends': ['account_payment_pro'],
-
+    'data':['views/account_payment_views.xml']
     # only loaded in demonstration mode
-    'demo': [
-        'demo/demo.xml',
-    ],
 }
